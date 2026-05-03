@@ -16,7 +16,8 @@ All predictions that were submitted before the deadline are available in the **O
 We also received 2 submissions after the deadline, which are available in the **Late_submissions** folder:
 [https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions](https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions)
 
-**Electoral Outlook by Coalition**
+**Electoral Outlook by Coalition**  
+
 A comparative analysis of participant projections, categorized by respective electoral alliances is available in the folder: [https://github.com/datascience-one/india_predicts_2026/tree/main/summary](https://github.com/datascience-one/india_predicts_2026/tree/main/summary)
 
 ---

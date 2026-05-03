@@ -6,6 +6,18 @@
 
 ---
 
+## 📥 Submissions Update
+
+All participant submissions have now been published in this repository.
+
+All predictions that were submitted before the deadline are available in the **On_time_submissions** folder:
+[https://github.com/datascience-one/india_predicts_2026/tree/main/On_time_submissions](https://github.com/datascience-one/india_predicts_2026/tree/main/On_time_submissions)
+
+We also received 2 submissions after the deadline, which are available in the **Late_submissions** folder:
+[https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions](https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions)
+
+---
+
 ## 🚀 Overview
 
 **India Predicts 2026** is a national-level data science challenge designed to test whether **elections can be predicted using structured data, analytics, and AI**—instead of opinion or intuition.

@@ -2,6 +2,12 @@
 
 This folder contains the final evaluated results and prediction analysis for the **India Predicts 2026** Election Prediction Competition conducted by [Data Science Academy](www.datascience.one).
 
+## Google Sheets Version
+
+The leaderboard and prediction analysis workbook can also be viewed online via Google Sheets:
+
+[View Leaderboard & Scores (Google Sheets)](https://docs.google.com/spreadsheets/d/1QyE0ZZQtwBflcbQTzjwBKVbhZTRAdVjoK3PrBEWDbXo/)
+
 ## Files Included
 
 ### Leaderboard (Final) - IndiaPredicts2026.xlsx

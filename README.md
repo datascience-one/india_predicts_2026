@@ -2,23 +2,50 @@
 
 ### India’s First National Election Prediction Challenge
 
-**Powered by Data Science Academy**
+[![Challenge Status](https://img.shields.io/badge/Status-Submissions%20Closed-red?style=for-the-badge)](https://datascience.one/election-prediction-2026/)
+
+[![States Covered](https://img.shields.io/badge/States-5-blue?style=for-the-badge)](#-states-covered)
+
+[![Constituencies](https://img.shields.io/badge/Constituencies-824-green?style=for-the-badge)](#-the-challenge)
+
+**Powered by [Data Science Academy](https://www.datascience.one)**
+
+---
+
+[![Website](https://img.shields.io/badge/Website-datascience.one-0078D4?style=flat-square&logo=google-chrome&logoColor=white)](https://datascience.one/election-prediction-2026/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaAN54MJf05Zji43oa0b) [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/datascienceacademy/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/datascienceacademy/) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TheDataScienceAcademy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/data-science-academy-in)
 
 ---
 
 ## 📥 Submissions Update
 
-All participant submissions have now been published in this repository.
+> **All participant submissions have now been published in this repository.**
 
-All predictions that were submitted before the deadline are available in the **On_time_submissions** folder:
-[https://github.com/datascience-one/india_predicts_2026/tree/main/On_time_submissions](https://github.com/datascience-one/india_predicts_2026/tree/main/On_time_submissions)
+<table>
+<tr>
+<td width="50%">
 
-We also received 2 submissions after the deadline, which are available in the **Late_submissions** folder:
-[https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions](https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions)
+### ✅ On-Time Submissions
+All predictions submitted before the deadline
+
+📂 [**View On-Time Submissions**](https://github.com/datascience-one/india_predicts_2026/tree/main/On_time_submissions)
+
+</td>
+<td width="50%">
+
+### ⏰ Late Submissions  
+2 submissions received after the deadline
+
+📂 [**View Late Submissions**](https://github.com/datascience-one/india_predicts_2026/tree/main/Late_submissions)
+
+</td>
+</tr>
+</table>
 
 **Electoral Outlook by Coalition**  
 
-A comparative analysis of participant projections, categorized by respective electoral alliances is available in the folder: [https://github.com/datascience-one/india_predicts_2026/tree/main/summary](https://github.com/datascience-one/india_predicts_2026/tree/main/summary)
+A comparative analysis of participant projections, categorized by respective electoral alliances:
+
+👉 [**View Coalition Analysis**](https://github.com/datascience-one/india_predicts_2026/tree/main/summary)
 
 ---
 
@@ -207,17 +234,25 @@ Only **data, reasoning, and models**
 
 ## 🤝 Organized By
 
-**[Data Science Academy](www.datascience.one)**
-Kerala, India
+<div align="left">
 
-WhatsApp Channel: [https://whatsapp.com/channel/0029VaAN54MJf05Zji43oa0b](https://whatsapp.com/channel/0029VaAN54MJf05Zji43oa0b)
+### [Data Science Academy](https://www.datascience.one)
+**Kerala, India**
 
-Facebook page: [https://www.facebook.com/datascienceacademy/](https://www.facebook.com/datascienceacademy/)
+---
 
-Instagram handle: [https://www.instagram.com/datascienceacademy/](https://www.instagram.com/datascienceacademy/)
+### 🌐 Connect With Us
 
-YouTube channel: [https://www.youtube.com/@TheDataScienceAcademy](https://www.youtube.com/@TheDataScienceAcademy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Our%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaAN54MJf05Zji43oa0b)
 
-LinkedIn profile: [https://in.linkedin.com/company/data-science-academy-in](https://in.linkedin.com/company/data-science-academy-in)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow%20Us-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/datascienceacademy/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datascienceacademy/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheDataScienceAcademy)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/company/data-science-academy-in)
+
+</div>
 
 ---
